@@ -1,0 +1,5 @@
+1. Improve code style
+When displayed in GitHub, the code gets squashed.
+Check PEP8 guidelines for Python style.
+
+2. Test how adding a dropout would affect the quality of images.
